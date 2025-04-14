@@ -83,6 +83,8 @@ O objetivo é fornecer ao utilizador uma ferramenta completa e intuitiva, onde p
 
 📍 Documento de proposta finalizado.  
 
+📍 Começo do desenvolvimento do projeto
+
 ---
 
 > Projeto académico desenvolvido no âmbito da unidade curricular de **Computação Móvel** – LESTI – Universidade do Algarve
